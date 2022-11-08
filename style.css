@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 3px;
+}
+#gameDiv{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid ;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: lightblue;
+    text-align: center;
+}
+#playerText{
+    color: goldenrod;
+}
+#computerText{
+    color: purple;
+}
